@@ -57,7 +57,6 @@ monopoly =  {
     {}
     :shortline_railroad=>
     {}
-
    }
   }
 }
