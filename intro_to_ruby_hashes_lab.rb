@@ -78,7 +78,7 @@ monopoly =  {
    :names=> 
    {
      :reading_railroad=>
-     { },
+     {:mortgage_value},
      :pennsylvania_railroad=>
      {},
      :b_and_o_railroad=>
